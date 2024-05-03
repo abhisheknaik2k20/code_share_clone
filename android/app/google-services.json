@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "647543444368",
+    "project_id": "codeshare-49d85",
+    "storage_bucket": "codeshare-49d85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647543444368:android:b6a841b767291b0e049915",
+        "android_client_info": {
+          "package_name": "com.example.code_share"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADrONfsvB1j3eRYPLHp0HxsTpUOAt2OIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647543444368:android:1eca2f00306bb2d0049915",
+        "android_client_info": {
+          "package_name": "com.example.codeshare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADrONfsvB1j3eRYPLHp0HxsTpUOAt2OIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
